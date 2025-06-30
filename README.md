@@ -4,7 +4,6 @@ A basic shell-like command line interface built in Java that supports both syste
   - mkdir, rmdir, touch, mv, rm, cat
   - Redirection: >, >>
   - Pipes: |
-
--  Internal Commands:
+- Internal Commands:
   - exit
   - help: List supported commands
